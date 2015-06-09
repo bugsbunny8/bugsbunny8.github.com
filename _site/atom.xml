@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Bugsbunny8's Tech Sites</title>
+ <link href="http://bugsbunny8.github.io/atom.xml" rel="self"/>
+ <link href="http://bugsbunny8.github.io"/>
+ <updated>2015-06-10T00:50:00+08:00</updated>
+ <id>http://bugsbunny8.github.io</id>
+ <author>
+   <name>bugsbunny8</name>
+   <email>bugsbunny8#gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Jeklly-Bootstrap与OctPress的比较</title>
+   <link href="http://bugsbunny8.github.io/blog/2015/06/10/jeklly-compare"/>
+   <updated>2015-06-10T00:00:00+08:00</updated>
+   <id>http://bugsbunny8.github.io/blog/2015/06/10/jeklly-compare</id>
+   <content type="html">
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;jeklly-bootstrap&quot;&gt;Jeklly-BootStrap&lt;/h1&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;&lt;strong&gt;优点&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;搭建博客相当的简洁，直接使用git clone将代码克隆下来之后，直接修改就可以了。&lt;/li&gt;
+  &lt;li&gt;无需安装复杂软件&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;&lt;strong&gt;缺点&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;模板比较简单&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;octpress&quot;&gt;OctPress&lt;/h1&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
