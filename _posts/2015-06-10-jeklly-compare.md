@@ -9,6 +9,8 @@ tags: [Blog]
 
 ---
 
+rake preview 支持文件修改后，自动更新对应的html，这个功能相当不错。
+
 # Jeklly-BootStrap
 
 ## **优点**
@@ -22,4 +24,5 @@ tags: [Blog]
 
 # OctPress
 
-
+## **优点**
+1. 模板多，可以配置的相当好看

@@ -100,7 +100,7 @@ end # task :page
 
 desc "Launch preview environment"
 task :preview do
-  system "jekyll serve -w -H 192.168.1.103"
+  system "jekyll serve -w -H 192.168.1.102"
 end # task :preview
 
 # Public: Alias - Maintains backwards compatability for theme switching.

@@ -7,7 +7,7 @@ tagline:
 
 # Self Introduction
 
-A Tech Fans Blogging and pages, for tech records & discussion.
+A tech fans blogging and pages, for tech records & discussion.
 
 If u are interested, please check [In detail](introduction.html)
 
@@ -24,6 +24,12 @@ If u are interested, please check [In detail](introduction.html)
 ---
 
 # Projects
+
+---
+
+# Tools
+
+- [MarkDown Language CheetSheet](MarkdownCheetSheet.html)
 
 ---
 
