@@ -5,6 +5,34 @@ description: "树莓派使用感悟"
 category: 
 tags: [Raspberry]
 ---
+# 树莓派的种类
+
+## Raspberry Pi
+
+## Raspberry Pi 2
+
+## Raspberry Pi Zero
+1. 价格便宜到足够的量了，$5。
+1. 小巧，没有网口
+1. 接口规范
+* 处理器: A Broadcom BCM2835 application processor 1GHz ARM11 core (40% faster than Raspberry Pi 1)
+* 内存: 512MB of LPDDR2 SDRAM
+* 尺寸: 65mm x 30mm x 5mm
+* 接口：接口支持完全和以前的A, B, B+, 2 兼容. (微型SD卡槽, HDMI 视频口).
+
+如下是官方规范
+
+* A Broadcom BCM2835 application processor
+* 1GHz ARM11 core (40% faster than Raspberry Pi 1)
+* 512MB of LPDDR2 SDRAM
+* A micro-SD card slot
+* A mini-HDMI socket for 1080p60 video output
+* Micro-USB sockets for data and power
+* An unpopulated 40-pin GPIO header
+* Identical pinout to Model A+/B+/2B
+* An unpopulated composite video header
+* Our smallest ever form factor, at 65mm x 30mm x 5mm
+
 # 树莓派能够做什么
 
 ## 支持的OS
