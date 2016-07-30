@@ -100,7 +100,7 @@ end # task :page
 
 desc "Launch preview environment"
 task :preview do
-  system "jekyll serve -w -H `ifconfig eth0 | grep 'inet addr:' |cut -d: -f2 | awk '{ print $1}'`"
+  system "jekyll serve -w -H `ifconfig ens33 | grep 'inet addr:' |cut -d: -f2 | awk '{ print $1}'`"
 end # task :preview
 
 # Public: Alias - Maintains backwards compatability for theme switching.
